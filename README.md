@@ -25,3 +25,5 @@ supermarket
 
 1. Google Places seems to have limit of 60 results per query. In order to maximize data harvesting, run individual queries for each zipcode in Nashville.
     From article linked above: "Since I was looping through several zip codes to do searches, I then appended that data frame to a master data frame and constructed a new column to filter out duplicates to only keep unique values.""
+
+2. import zipcodes.geojson from other projects, to obtain Nashville zipcodes after filtering geodataframe with .isin()
