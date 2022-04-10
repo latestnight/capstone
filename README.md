@@ -1,4 +1,16 @@
+# data resources
+Google Places API
+CDC PLACES collaboration, 500 Cities datasets: https://www.cdc.gov/places/
+  2016 release: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/5mtz-k78d
+  2019 release: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb
+
+
+
+
 # capstone
+
+
+
 
 Google API query steps:
 
@@ -11,14 +23,17 @@ Table 1: Place types
 Food/drink/meal related
 
 Bakery
-bar
+food
+bar *
 cafe
 gas_station
-liquor_store
+convenience_store
+liquor_store *
 meal_delivery
 meal_takeaway
 restaurant
 supermarket
+grocery_or_supermarket ?
 
 
 # Ideas for query plan, in no particular order:
@@ -27,3 +42,5 @@ supermarket
     From article linked above: "Since I was looping through several zip codes to do searches, I then appended that data frame to a master data frame and constructed a new column to filter out duplicates to only keep unique values.""
 
 2. import zipcodes.geojson from other projects, to obtain Nashville zipcodes after filtering geodataframe with .isin()
+
+3. Places API does not seem to be capable of returning search results containing only a specific zipcode. I am now thinking that I may have to do a query with the `location=` parameter set to the lat/lng coordinates of each zipcode's centroid. After performing every query, I will then have to filter out any duplicate results.
