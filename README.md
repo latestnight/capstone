@@ -2,7 +2,13 @@
 Google Places API
 CDC PLACES collaboration, 500 Cities datasets: https://www.cdc.gov/places/
   2016 release: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/5mtz-k78d
+  2017 release: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/kucs-wizg
+  2018 release: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k25u-mg9b
   2019 release: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb
+
+CDC PLACES collaboration, after the study condensed all Nashville data into one Nashville-Davidson county entry:
+  2020 release: https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2020-release/ndzg-9nmv
+  2021 release: https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Place-Data-GIS-Friendly-Format-2021-release/vgc8-iyc4
 
 
 
