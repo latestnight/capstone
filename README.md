@@ -15,6 +15,9 @@ CDC PLACES collaboration, after the study condensed all Nashville data into one 
 
 # capstone
 
+Jupyter slides??? (in place of powerpoint)
+Rise (jupyter extension; html that can display folium maps etc)
+
 
 
 
