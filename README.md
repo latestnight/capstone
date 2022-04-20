@@ -53,3 +53,55 @@ grocery_or_supermarket ?
 2. import zipcodes.geojson from other projects, to obtain Nashville zipcodes after filtering geodataframe with .isin()
 
 3. Places API does not seem to be capable of returning search results containing only a specific zipcode. I am now thinking that I may have to do a query with the `location=` parameter set to the lat/lng coordinates of each zipcode's centroid. After performing every query, I will then have to filter out any duplicate results.
+
+# 22 count, official USPS Nashville Zip codes (that are not specially assigned to a company/organization or PO Box)
+37201
+37203
+37204
+37205
+37206
+37207
+37208
+37209
+37210
+37211
+37212
+37213
+37214
+37215
+37216
+37217
+37218
+37219
+37220
+37221
+37228
+37238
+
+# 25 count (including double 37207) Nashville Zip codes extracted from GeoJSON sourced directly from data.nashville.gov
+
+37221
+37214
+37204
+37232
+37205
+37217
+37213
+37246
+37228
+37210
+37209
+37207
+37240
+37206
+37212
+37216
+37219
+37207
+37203
+37211
+37218
+37208
+37220
+37215
+37201
