@@ -1,0 +1,8 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Circle K,"2001 Belmont Blvd, Nashville, TN 37212",36.1325585,-86.7959664,"['convenience_store', 'atm', 'gas_station', 'finance', 'food', 'point_of_interest', 'store', 'establishment']"
+1,MAPCO,"2103 21st Ave S, Nashville, TN 37212",36.130663,-86.802104,"['gas_station', 'convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+2,MAPCO,"1507 21st Ave S, Nashville, TN 37212",36.138915,-86.80095,"['gas_station', 'convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+3,Tiger Mart,"3400 West End Ave, Nashville, TN 37203",36.1391673,-86.82003429999999,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+4,DGX,"2034 West End Ave, Nashville, TN 37203",36.15072869999999,-86.8011823,"['convenience_store', 'drugstore', 'home_goods_store', 'liquor_store', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+5,Virginia's Market,"703 18th Ave S, Nashville, TN 37203",36.1509379,-86.794602,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+6,Twice Daily,"1702 West End Ave, Nashville, TN 37203",36.15396,-86.79513,"['convenience_store', 'bakery', 'cafe', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']"

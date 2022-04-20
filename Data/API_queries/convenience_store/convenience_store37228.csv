@@ -1,0 +1,12 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Tiger Mart,"2022 Rosa L Parks Blvd, Nashville, TN 37228",36.1884532,-86.79817659999999,"['convenience_store', 'atm', 'gas_station', 'finance', 'food', 'point_of_interest', 'store', 'establishment']"
+1,7-Eleven,"2022 Rosa L Parks Blvd, Nashville, TN 37228",36.18841270000001,-86.7977485,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+2,Sunrise Express Market or the corner mart,"2600 Clarksville Pike, Nashville, TN 37208",36.1868679,-86.81898699999999,"['convenience_store', 'gas_station', 'food', 'point_of_interest', 'store', 'establishment']"
+3,z mart 7 inc.,"2610 Clarksville Pike, Nashville, TN 37208",36.1872022,-86.81934600000001,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+4,Discounts Mart,"1613 Buchanan St, Nashville, TN 37208",36.1796962,-86.810467,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+5,7-Eleven,"3200 Clarksville Pike, Nashville, TN 37218",36.1940918,-86.8313685,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+6,DB Todd Market,"1509 Dr DB Todd Jr Blvd, Nashville, TN 37208",36.172976,-86.8082877,"['convenience_store', 'atm', 'finance', 'food', 'point_of_interest', 'store', 'establishment']"
+7,R & R Drive In Market,"1041 Jefferson St, Nashville, TN 37208",36.1716039,-86.79664969999999,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+8,Garfield Market,"1705 Jenkins St, Nashville, TN 37208",36.1801309,-86.7985218,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
+9,Larry's Quick Stop,"240 N 1st St, Nashville, TN 37213",36.1765293,-86.7751309,"['convenience_store', 'gas_station', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+10,All Star Mini Mart,"2201 Whites Creek Pike, Nashville, TN 37207",36.2075966,-86.7913439,"['convenience_store', 'food', 'point_of_interest', 'store', 'establishment']"
