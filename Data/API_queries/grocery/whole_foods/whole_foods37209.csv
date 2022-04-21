@@ -1,0 +1,7 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Whole Foods Market,"1202 Broadway, Nashville, TN 37203",36.1567496,-86.7880596,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+1,Whole Foods Market,"4021 Hillsboro Pike, Nashville, TN 37215",36.1031403,-86.8187272,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+2,Whole Foods Market,"1566 W McEwen Dr, Franklin, TN 37067",35.934211,-86.8249366,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+3,Macro Mama Baby Food,"6004 Charlotte Pike, Nashville, TN 37209",36.14906149999999,-86.865965,"['food', 'health', 'point_of_interest', 'store', 'establishment']"
+4,Whole Body,"Nashville, TN 37215",36.1033899,-86.8182264,"['health', 'point_of_interest', 'store', 'establishment']"
+5,Sprouts Farmers Market,"7620 Hwy 70 S, Nashville, TN 37221",36.07989999999999,-86.94918,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"

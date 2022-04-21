@@ -1,0 +1,6 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,H G Hill Food Stores,"3105 Dickerson Pike, Nashville, TN 37207",36.2301425,-86.7577511,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Savi Urban Market,"415 Church St, Nashville, TN 37219",36.1634125,-86.779421,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,"H.G. Hill Realty Company, LLC","3011 Armory Dr #130, Nashville, TN 37204",36.1029661,-86.7581361,"['real_estate_agency', 'general_contractor', 'point_of_interest', 'establishment']"
+3,H.G Hill,"212 goodlettsville, Goodlettsville, TN 37072",36.31409,-86.7119371,"['store', 'point_of_interest', 'establishment']"
+4,H G Hill Middle School,"150 Davidson Rd, Nashville, TN 37205",36.1168881,-86.866373,"['school', 'point_of_interest', 'establishment']"

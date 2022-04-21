@@ -1,0 +1,11 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Whole Foods Market,"4021 Hillsboro Pike, Nashville, TN 37215",36.1031403,-86.8187272,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+1,Whole Foods Market,"1202 Broadway, Nashville, TN 37203",36.1567496,-86.7880596,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+2,Whole Body,"Nashville, TN 37215",36.1033899,-86.8182264,"['health', 'point_of_interest', 'store', 'establishment']"
+3,The Turnip Truck - Gulch,"321 12th Ave S, Nashville, TN 37203",36.1527599,-86.78545869999999,"['grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+4,The Turnip Truck - East Nashville,"701 Woodland St, Nashville, TN 37206",36.1738247,-86.76001579999999,"['grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+5,Whole Foods Market,"1566 W McEwen Dr, Franklin, TN 37067",35.934211,-86.8249366,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+6,Aleksey's Market,"718 Thompson Ln, Nashville, TN 37204",36.1128669,-86.76522740000001,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+7,Wedgehill Market,"600 Benton Ave, Nashville, TN 37204",36.1318851,-86.76877499999999,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+8,Kroger,"2615 Franklin Pike, Nashville, TN 37204",36.1199446,-86.7771798,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+9,MonaVie Nashville TN Acai Berry,"555 Church St, Nashville, TN 37219",36.1626194,-86.7809832,"['restaurant', 'food', 'health', 'point_of_interest', 'store', 'establishment']"

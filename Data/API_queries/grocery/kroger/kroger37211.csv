@@ -1,0 +1,8 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Kroger,"5771 Nolensville Road, Nashville, TN 37211",36.04639470000001,-86.7152435,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Kroger,"5713 Edmondson Pike, Nashville, TN 37211",36.0391811,-86.7454053,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,Kroger,"61 E Thompson Ln, Nashville, TN 37211",36.1098179,-86.7250687,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+3,Kroger,"2615 Franklin Pike, Nashville, TN 37204",36.1199446,-86.7771798,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+4,Kroger,"6690 Nolensville Rd, Brentwood, TN 37027",36.0003267,-86.6913084,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+5,Kroger Pharmacy,"5771 Nolensville Rd, Nashville, TN 37211",36.0465205,-86.7152416,"['pharmacy', 'health', 'point_of_interest', 'store', 'establishment']"
+6,Kroger,"2201 21st Ave S, Nashville, TN 37212",36.1301887,-86.80261089999999,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"

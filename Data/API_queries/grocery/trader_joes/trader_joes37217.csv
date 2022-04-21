@@ -1,0 +1,4 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Trader Joe's,"3909 Hillsboro Pike, Nashville, TN 37215",36.1050835,-86.815626,"['grocery_or_supermarket', 'florist', 'supermarket', 'liquor_store', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+1,Trader Joe's,"90 White Bridge Rd, Nashville, TN 37205",36.1307261,-86.85222700000001,"['grocery_or_supermarket', 'florist', 'supermarket', 'liquor_store', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+2,Trader Joe's,"545 Cool Springs Blvd, Franklin, TN 37067",35.9492541,-86.8217728,"['grocery_or_supermarket', 'florist', 'supermarket', 'liquor_store', 'food', 'health', 'point_of_interest', 'store', 'establishment']"

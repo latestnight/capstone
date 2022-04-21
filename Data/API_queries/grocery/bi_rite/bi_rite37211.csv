@@ -1,0 +1,4 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Osborne Bi-Rite,"3302 Nolensville Pike, Nashville, TN 37211",36.1014506,-86.7401198,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Osborne's Bi-Rite,"3116 Belmont Blvd, Nashville, TN 37212",36.117707,-86.7967994,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,Resha's Bi-Rite Market,"717 25th Ave N, Nashville, TN 37208",36.1594967,-86.8140176,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"

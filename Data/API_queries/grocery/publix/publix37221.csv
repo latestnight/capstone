@@ -1,0 +1,3 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Publix Super Market at Bellevue Center,"7604 Hwy 70 S, Nashville, TN 37221",36.0784138,-86.9455024,"['supermarket', 'florist', 'bakery', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Publix Super Market at Harpeth Village,"8028 TN-100, Nashville, TN 37221",36.047101,-86.95225289999999,"['supermarket', 'florist', 'bakery', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']"

@@ -1,0 +1,7 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Whole Foods Market,"1202 Broadway, Nashville, TN 37203",36.1567496,-86.7880596,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+1,Whole Foods Market,"4021 Hillsboro Pike, Nashville, TN 37215",36.1031403,-86.8187272,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+2,Whole Foods Market,"1566 W McEwen Dr, Franklin, TN 37067",35.934211,-86.8249366,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+3,Whole Foods Market,"301 Manufacturers Rd, Chattanooga, TN 37405",35.0633539,-85.31418719999999,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+4,Whole Foods Market,"2800 Old Milton Pkwy, Alpharetta, GA 30009",34.06946690000001,-84.27840909999999,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+5,The Turnip Truck - Gulch,"321 12th Ave S, Nashville, TN 37203",36.1527599,-86.78545869999999,"['grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"

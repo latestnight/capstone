@@ -1,0 +1,4 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Piggly Wiggly,"2317 Dickerson Pike, Nashville, TN 37207",36.2077791,-86.76702279999999,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Piggly Wiggly,"1439 Robinson Rd, Old Hickory, TN 37138",36.2563463,-86.6536169,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,Piggly Wiggly,"2900 West End Ave, Nashville, TN 37203",36.1445892,-86.8136,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"

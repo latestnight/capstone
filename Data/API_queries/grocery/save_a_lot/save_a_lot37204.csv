@@ -1,0 +1,5 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Save A Lot,"1113 Murfreesboro Pike, Nashville, TN 37217",36.1257545,-86.7109041,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Save A Lot,"2400 Clarksville Pike, Nashville, TN 37208",36.1853833,-86.8159932,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,Save A Lot,"1134 Gallatin Pike S, Nashville, TN 37115",36.2505921,-86.72085469999999,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+3,Save A Lot,"5350 Mt View Rd, Antioch, TN 37013",36.0466808,-86.6493797,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"

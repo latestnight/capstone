@@ -1,0 +1,6 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Kroger,"61 E Thompson Ln, Nashville, TN 37211",36.1098179,-86.7250687,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Kroger,"143 McGavock Pk, Nashville, TN 37214",36.1708586,-86.6787306,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,Kroger,"711 Gallatin Ave, Nashville, TN 37206",36.1844297,-86.7468566,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+3,Kroger,"2201 21st Ave S, Nashville, TN 37212",36.1301887,-86.80261089999999,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+4,Kroger,"2615 Franklin Pike, Nashville, TN 37204",36.1199446,-86.7771798,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"

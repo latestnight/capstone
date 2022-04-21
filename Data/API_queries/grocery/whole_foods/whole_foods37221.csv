@@ -1,0 +1,11 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Whole Foods Market,"4021 Hillsboro Pike, Nashville, TN 37215",36.1031403,-86.8187272,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+1,Whole Foods Market,"1202 Broadway, Nashville, TN 37203",36.1567496,-86.7880596,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+2,Sprouts Farmers Market,"7620 Hwy 70 S, Nashville, TN 37221",36.07989999999999,-86.94918,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+3,Whole Foods Market,"1566 W McEwen Dr, Franklin, TN 37067",35.934211,-86.8249366,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+4,Whole Body,"Nashville, TN 37215",36.1033899,-86.8182264,"['health', 'point_of_interest', 'store', 'establishment']"
+5,Publix Super Market at Bellevue Center,"7604 Hwy 70 S, Nashville, TN 37221",36.0784138,-86.9455024,"['supermarket', 'florist', 'bakery', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']"
+6,Kroger,"7087 Hwy 70 S, Nashville, TN 37221",36.0732005,-86.9195872,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+7,Kroger,"8141 TN-100, Nashville, TN 37221",36.0433407,-86.9565322,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+8,Publix Super Market at Harpeth Village,"8028 TN-100, Nashville, TN 37221",36.047101,-86.95225289999999,"['supermarket', 'florist', 'bakery', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']"
+9,The Turnip Truck - Gulch,"321 12th Ave S, Nashville, TN 37203",36.1527599,-86.78545869999999,"['grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"

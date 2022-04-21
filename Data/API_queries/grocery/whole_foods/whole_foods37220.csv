@@ -1,0 +1,11 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Whole Foods Market,"4021 Hillsboro Pike, Nashville, TN 37215",36.1031403,-86.8187272,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+1,Whole Foods Market,"1202 Broadway, Nashville, TN 37203",36.1567496,-86.7880596,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+2,Whole Foods Market,"1566 W McEwen Dr, Franklin, TN 37067",35.934211,-86.8249366,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+3,Whole Body,"Nashville, TN 37215",36.1033899,-86.8182264,"['health', 'point_of_interest', 'store', 'establishment']"
+4,Whole Foods Market,"1601 S Brentwood Blvd, St. Louis, MO 63144",38.6271091,-90.3478836,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+5,Publix Super Market at Nippers Corner,"15544 Old Hickory Blvd, Nashville, TN 37211",36.04102719999999,-86.7414412,"['supermarket', 'florist', 'bakery', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']"
+6,The Turnip Truck - Gulch,"321 12th Ave S, Nashville, TN 37203",36.1527599,-86.78545869999999,"['grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+7,Whole Foods Market,"6730 Papermill Dr NW, Knoxville, TN 37919",35.9330472,-84.015503,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+8,Whole Foods Market,"1814 Gunbarrel Rd Ste 100, Chattanooga, TN 37421",35.0236688,-85.1560858,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+9,The Turnip Truck - East Nashville,"701 Woodland St, Nashville, TN 37206",36.1738247,-86.76001579999999,"['grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"

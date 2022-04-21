@@ -1,0 +1,13 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Whole Foods Market,"1202 Broadway, Nashville, TN 37203",36.1567496,-86.7880596,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+1,Whole Foods Market,"4021 Hillsboro Pike, Nashville, TN 37215",36.1031403,-86.8187272,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+2,Kroger,"3410 Gallatin Pike, Nashville, TN 37216",36.2101364,-86.73166479999999,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+3,Whole Foods Market,"1566 W McEwen Dr, Franklin, TN 37067",35.934211,-86.8249366,"['grocery_or_supermarket', 'supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+4,Madison Inglewood Market,"4702 Gallatin Pike, Nashville, TN 37216",36.2305556,-86.7247222,"['convenience_store', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+5,Whole Body,"Nashville, TN 37215",36.1033899,-86.8182264,"['health', 'point_of_interest', 'store', 'establishment']"
+6,The Turnip Truck - East Nashville,"701 Woodland St, Nashville, TN 37206",36.1738247,-86.76001579999999,"['grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"
+7,Litton's Corner Market,"2830 Gallatin Pike, Nashville, TN 37216",36.2022406,-86.7389614,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+8,Kroger,"711 Gallatin Ave, Nashville, TN 37206",36.1844297,-86.7468566,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+9,Publix Super Market at Hill Center Greenwood,"1111 Gallatin Ave, Nashville, TN 37206",36.1898456,-86.7449475,"['supermarket', 'florist', 'bakery', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']"
+10,Mitchell Delicatessen,"1306 McGavock Pk, Nashville, TN 37216",36.2042596,-86.7249449,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']"
+11,The Turnip Truck - Gulch,"321 12th Ave S, Nashville, TN 37203",36.1527599,-86.78545869999999,"['grocery_or_supermarket', 'food', 'health', 'point_of_interest', 'store', 'establishment']"

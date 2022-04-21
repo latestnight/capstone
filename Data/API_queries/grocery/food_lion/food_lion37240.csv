@@ -1,0 +1,8 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Food Lion,"3636 Bell Rd, Nashville, TN 37214",36.1504959,-86.6272429,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Food Lion,"936 Richards Rd, Antioch, TN 37013",36.0680026,-86.6813001,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,Food Lion,"11459 Old Nashville Hwy, Smyrna, TN 37167",35.9567709,-86.5195602,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+3,Food Lion,"5341 Main St, Spring Hill, TN 37174",35.7449949,-86.94046589999999,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+4,Food Lion,"1764 State Hwy 48, Clarksville, TN 37040",36.478286,-87.3773119,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+5,Food Lion,"471 E Main St, Gallatin, TN 37066",36.3900714,-86.43608449999999,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+6,Food Lion,"314 Frey St, Ashland City, TN 37015",36.2958639,-87.04799829999999,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"

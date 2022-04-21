@@ -1,0 +1,13 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,H G Hill Food Stores,"3105 Dickerson Pike, Nashville, TN 37207",36.2301425,-86.7577511,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,H G Hill Middle School,"150 Davidson Rd, Nashville, TN 37205",36.1168881,-86.866373,"['school', 'point_of_interest', 'establishment']"
+2,H.G. Hill Park,"6710 Charlotte Pike, Nashville, TN 37209",36.136546,-86.8881672,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']"
+3,Publix Super Market at Hill Center at Nashville West,"6614 Charlotte Pike, Nashville, TN 37209",36.1401562,-86.8829001,"['supermarket', 'florist', 'bakery', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']"
+4,H.G Hill,"212 goodlettsville, Goodlettsville, TN 37072",36.31409,-86.7119371,"['store', 'point_of_interest', 'establishment']"
+5,"H.G. Hill Realty Company, LLC","3011 Armory Dr #130, Nashville, TN 37204",36.1029661,-86.7581361,"['real_estate_agency', 'general_contractor', 'point_of_interest', 'establishment']"
+6,H.G. Hill Food Store,"2498 Highway 49 East, Pleasant View, TN 37146",36.396843,-87.0314259,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+7,Savi Urban Market,"415 Church St, Nashville, TN 37219",36.1634125,-86.779421,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+8,H.G. Hill Food Store,"519 Memorial Blvd, Springfield, TN 37172",36.5072985,-86.882437,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+9,Hill Center,"6606 Charlotte Pike, Nashville, TN 37209",36.1400756,-86.88258359999999,"['shopping_mall', 'point_of_interest', 'establishment']"
+10,Hill Center Sylvan Heights,"4001 Charlotte Ave, Nashville, TN 37209",36.1522632,-86.8346006,"['point_of_interest', 'establishment']"
+11,H G Hill Realty Co,"601 Gallatin Ave, Nashville, TN 37206",36.1828604,-86.74750139999999,"['real_estate_agency', 'point_of_interest', 'establishment']"

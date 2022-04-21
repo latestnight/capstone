@@ -1,0 +1,4 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,ALDI,"405 American Rd, Nashville, TN 37209",36.14495950000001,-86.8740361,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,ALDI,"3758 Nolensville Pike, Nashville, TN 37211",36.0902874,-86.73231439999999,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,ALDI,"615 Gallatin Ave, Nashville, TN 37206",36.1832883,-86.7475518,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"

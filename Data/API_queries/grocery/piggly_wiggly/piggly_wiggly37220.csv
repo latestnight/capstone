@@ -1,0 +1,5 @@
+,shop_name,shop_address,shop_lat,shop_lng,types
+0,Piggly Wiggly,"1439 Robinson Rd, Old Hickory, TN 37138",36.2563463,-86.6536169,"['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+1,Piggly Wiggly,"2317 Dickerson Pike, Nashville, TN 37207",36.2077791,-86.76702279999999,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+2,Piggly Wiggly,"7838 TN-25, Cross Plains, TN 37049",36.5485619,-86.6942559,"['supermarket', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
+3,Piggly Wiggly,"1412 Trotwood Ave, Columbia, TN 38401",35.5998942,-87.0780041,"['grocery_or_supermarket', 'supermarket', 'food', 'point_of_interest', 'store', 'establishment']"
