@@ -105,3 +105,12 @@ grocery_or_supermarket ?
 37220
 37215
 37201
+
+
+
+# overall data gathering/cleaning steps:
+  1. Google Places api
+  2.
+  3. Clean up individual grocery store CSVs in Excel to delete 'kroger pharmacy' types quickly
+    a. leaving within CSVs 'honorable mentions', stores that weren't intentionally captured but are unique
+  4. drop duplicate addresses in Pandas
