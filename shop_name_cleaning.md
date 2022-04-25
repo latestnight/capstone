@@ -47,4 +47,7 @@ gas_station, convenience_store, liquor_store -> junk
   'Weiss Drive-In Market'                 -junk
   '4 Stop Market'                         -junk
    'Express Food Mart'                    -junk
-   
+'Steamville Hemp Co.'
+"Pharaoh's Market"                        -junk
+'Woodland Wine Merchant East Nashville'     -junk
+'Galena Garlic Company'                   
