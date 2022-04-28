@@ -8,7 +8,7 @@ Table of Contents
 6. [Technologies](https://github.com/latestnight/capstone#technologies)
 7. [Challenges and Limitations](https://github.com/latestnight/capstone#challenges-and-limitations)
 8. [Link to Dashboard](https://github.com/latestnight/capstone#link-to-dashboard)
-10. [Special Acknowledgements and Shout-Outs](https://github.com/latestnight/capstone#special-acknowledgements-and-shout-outs)
+9. [Special Acknowledgements and Shout-Outs](https://github.com/latestnight/capstone#special-acknowledgements-and-shout-outs)
 
 # Motivation
 There are a few reasons for why I chose my capstone topic:
