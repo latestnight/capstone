@@ -22,6 +22,8 @@ The exact definition of what a food desert is seems to still be developing, base
 # Public Health Implications
 As mentioned above, it is already well understood that dietary choices will have an impact on someone's health. Dealing with chronic disease is a daily task for many members of our local population. My analysis focuses on chronic diseases where diet is thought to be a notable component of disease onset or progression. These diseases are the following: hypertension, heart disease, diabetes mellitus, hyperlipidemia/high cholesterol, obesity, and stroke.
 
+# My Hypothesis
+I propose that areas with less access to grocery stores will demonstrate a higher prevalence of chronic disease. In other words, the presence of potential food deserts will lead to increases in disease.
 
 # Data Sources
 1. Google Places API
@@ -71,6 +73,7 @@ As mentioned above, it is already well understood that dietary choices will have
       d. Places API 'type' categories
 13. For-loop written to automate the performing of all grocery store queries.
 14. Code written to append all query results into a master DataFrame.
+    a. Duplicate addresses removed from final DataFrame
 15. Utilized grocery store DataFrame to load all points into folium
     a. Circle markers utilized in folium
     b. Radius of circle marker set to 1609 meters to provide coverage of one mile radius from all grocery store locations
