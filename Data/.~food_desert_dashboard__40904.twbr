@@ -12,6 +12,7 @@
     <MapboxVectorStylesAndLayers />
     <_.fcp.MarkAnimation.true...MarkAnimation />
     <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelExtractV2.true...ObjectModelExtractV2 />
     <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
     <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
     <SetMembershipControl />
@@ -514,6 +515,7 @@
             <column datatype='real' name='STROKE_CrudePrev' ordinal='6' />
           </columns>
         </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <refresh increment-key='' incremental-updates='false' />
         <metadata-records>
           <metadata-record class='capability'>
             <remote-name />
@@ -626,6 +628,115 @@
       <column caption='STROKE CrudePrev' datatype='real' name='[STROKE_CrudePrev]' role='measure' type='quantitative' />
       <_.fcp.ObjectModelTableType.true...column caption='scatterplot_DF.csv' datatype='table' name='[__tableau_internal_object_id__].[scatterplot_DF.csv_3CA3423DF0624173AA3EE5BAEA244E79]' role='measure' type='quantitative' />
       <column caption='Zip Code' datatype='real' name='[zip_code]' role='measure' semantic-role='' type='quantitative' />
+      <extract _.fcp.ObjectModelExtractV2.true...object-id='' count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='/Users/k.simmons/Documents/My Tableau Repository/Datasources/scatterplot_DF.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='04/28/2022 03:59:42 PM' username='tableau_internal_user'>
+          <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh increment-key='' incremental-updates='false'>
+            <refresh-event add-from-file-path='scatterplot_DF' increment-value='%null%' refresh-type='create' rows-inserted='10' timestamp-start='2022-04-28 15:59:42.075' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>zip_code</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[zip_code]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>zip_code</remote-alias>
+              <ordinal>0</ordinal>
+              <family>scatterplot_DF.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[scatterplot_DF.csv_3CA3423DF0624173AA3EE5BAEA244E79]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>BPHIGH_CrudePrev</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[BPHIGH_CrudePrev]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>BPHIGH_CrudePrev</remote-alias>
+              <ordinal>1</ordinal>
+              <family>scatterplot_DF.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[scatterplot_DF.csv_3CA3423DF0624173AA3EE5BAEA244E79]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>CHD_CrudePrev</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[CHD_CrudePrev]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>CHD_CrudePrev</remote-alias>
+              <ordinal>2</ordinal>
+              <family>scatterplot_DF.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[scatterplot_DF.csv_3CA3423DF0624173AA3EE5BAEA244E79]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>DIABETES_CrudePrev</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[DIABETES_CrudePrev]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>DIABETES_CrudePrev</remote-alias>
+              <ordinal>3</ordinal>
+              <family>scatterplot_DF.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[scatterplot_DF.csv_3CA3423DF0624173AA3EE5BAEA244E79]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>HIGHCHOL_CrudePrev</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[HIGHCHOL_CrudePrev]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>HIGHCHOL_CrudePrev</remote-alias>
+              <ordinal>4</ordinal>
+              <family>scatterplot_DF.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[scatterplot_DF.csv_3CA3423DF0624173AA3EE5BAEA244E79]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>OBESITY_CrudePrev</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[OBESITY_CrudePrev]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>OBESITY_CrudePrev</remote-alias>
+              <ordinal>5</ordinal>
+              <family>scatterplot_DF.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[scatterplot_DF.csv_3CA3423DF0624173AA3EE5BAEA244E79]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>STROKE_CrudePrev</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[STROKE_CrudePrev]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>STROKE_CrudePrev</remote-alias>
+              <ordinal>6</ordinal>
+              <family>scatterplot_DF.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[scatterplot_DF.csv_3CA3423DF0624173AA3EE5BAEA244E79]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
       <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
@@ -645,6 +756,9 @@
                   <column datatype='real' name='STROKE_CrudePrev' ordinal='6' />
                 </columns>
               </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
             </properties>
           </object>
         </objects>
@@ -1221,8 +1335,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1100' minheight='1100' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='60' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='59' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='62' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='61' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone forceUpdate='true' h='6750' id='22' type-v2='text' w='98400' x='800' y='1000'>
                   <formatted-text>
                     <run fontalignment='1' fontsize='26'>Impact of Food Deserts on Nashville Public Health</run>
@@ -1424,7 +1538,7 @@
           <default-map-tool-selection tool='1' />
         </viewpoint>
       </viewpoints>
-      <active id='16' />
+      <active id='-1' />
       <simple-id uuid='{E84AAFB3-03D5-4E0A-8809-B5171592FC1D}' />
     </window>
     <window class='worksheet' name='BP Scatter'>

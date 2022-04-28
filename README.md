@@ -101,3 +101,4 @@ The biggest visualization on my dashboard is the food desert map. This interacti
 On the bottom of the dashboard is a bar graph that displays the total number of grocery stores per zip code. The visualization on the right of the dashboard shows the total number of distinct store businesses that have a presence in a particular zip code. Both of these visualizations can help the user understand what zip codes are most vulnerable if a business were to be shuttered.
 
 # Link to Dashboard
+[Click Here!](https://public.tableau.com/views/food_desert_dashboard/FoodDesertDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
