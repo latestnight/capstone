@@ -1,13 +1,13 @@
 Table of Contents
 
-    Motivation
-    Data Sources
-    Technologies
-    Challenges and Limitations
-        API query
-
-    Link to Dashboard
-    testing
+    [Motivation](# Motivation)
+    [What is a Food Desert?](# What is a Food Desert?)
+    [Public Health Implications](# Public Health Implications)
+    [My Hypothesis](# My Hypothesis)
+    [Data Sources](# Data Sources)
+    [Technologies](# Technologies)
+    [Challenges and Limitations](# Challenges and Limitations)
+    [Link to Dashboard](# Link to Dashboard)
 
 # Motivation
 There are a few reasons for why I chose my capstone topic:
@@ -48,43 +48,43 @@ I propose that areas with less access to grocery stores will demonstrate a highe
 
 # Data Collection and Analysis Process
 1. Imported geojson containing zip code, city name, and zip code geometry.
-    a. Filtered geojson to only contain zip codes within Nashville city limits. My analysis is not looking at the entire Metro Nashville-Davidson County area.
-    b. 37207 is listed twice. Determined that this double listing was intentional, as 37207 has a geographically 'separate' polygon when looking at the map geometry. Based on subsequent query technique, decided it was safe to remove smaller polygon from geojson.
+    * Filtered geojson to only contain zip codes within Nashville city limits. My analysis is not looking at the entire Metro Nashville-Davidson County area.
+    * 37207 is listed twice. Determined that this double listing was intentional, as 37207 has a geographically 'separate' polygon when looking at the map geometry. Based on subsequent query technique, decided it was safe to remove smaller polygon from geojson.
 2. After creating list of Nashville zip codes, I created a centroid for each zip code polygon.
 3. Next I created a list of the latitude/longitude for each centroid. The lat/long will be utilized in my API query.
 4. Imported geojson into folium to create base zip code map.
 5. Now that I have a list of the zip codes I will be searching within, I began experimenting with performing Google Places API queries.
-    a. Requests utilized to call API
-    b. Time package utilized to prevent query timeout
+    * Requests utilized to call API
+    * Time package utilized to prevent query timeout
 6. Dictionary made for zip code centroid coordinates.
 7. Dictionary made for approximate radius of search area
-    a. API limitations made me decide to query by each zip code to ensure the most complete results.
-    b. Duplicates with API query will be a given. To reduce the amount of duplicates, and to ensure that query is focused enough on specific zip code: MeasureControl folium plugin utilized to make approximate measurement of zip code at widest point. Halved measurements placed into radius dictionary.
+    * API limitations made me decide to query by each zip code to ensure the most complete results.
+    * Duplicates with API query will be a given. To reduce the amount of duplicates, and to ensure that query is focused enough on specific zip code: MeasureControl folium plugin utilized to make approximate measurement of zip code at widest point. Halved measurements placed into radius dictionary.
 8. Both zip code radius and centroid coordinates combined into master dictionary, to aid in subsequent queries.
 9. Manually performing trial and error query takes far too long - time to automate queries by creating a query function.
-    a. Query function takes three arguments: zip code to be queried, centroid coordinates, and zip code radius.
+    * Query function takes three arguments: zip code to be queried, centroid coordinates, and zip code radius.
 10. Query function modified for different establishment searches: grocery stores, gas stations, convenience stores, and restaurants. Each function returns a DataFrame that is created from a dictionary. A .csv is automatically created to save query results locally.
 11. Cleaning my newly acquired data is revealing that some aspects of the cleaning may be far too subjective. Decision made to limit scope of analysis to only cover established large chain grocery stores.
 12. Query function modified/created for all major grocery stores/supermarkets with local presence.
     Each query returns the following:
-      a. Grocery Store name
-      b. Formatted address
-      c. Store lat/long coordinates
-      d. Places API 'type' categories
+      * Grocery Store name
+      * Formatted address
+      * Store lat/long coordinates
+      * Places API 'type' categories
 13. For-loop written to automate the performing of all grocery store queries.
 14. Code written to append all query results into a master DataFrame.
-    a. Duplicate addresses removed from final DataFrame
+    * Duplicate addresses removed from final DataFrame
 15. Utilized grocery store DataFrame to load all points into folium
-    a. Circle markers utilized in folium
-    b. Radius of circle marker set to 1609 meters to provide coverage of one mile radius from all grocery store locations
-    c. Radius of one mile from all markers shows area on map that does not exist within a potential food desert.
-    d. Uncovered 'negative space' on map shows geographic areas that are potential food deserts.
+    * Circle markers utilized in folium
+    * Radius of circle marker set to 1609 meters to provide coverage of one mile radius from all grocery store locations
+    * Radius of one mile from all markers shows area on map that does not exist within a potential food desert.
+    * Uncovered 'negative space' on map shows geographic areas that are potential food deserts.
 16. CDC data cleaned to only contain data for Nashville.
 17. Original intent was to show disease prevalence over time. Four years of disease prevalence measures collected for all Nashville census tracts. Two additional years available from CDC that contain same metrics, but are condensed for Nashville area as a whole. API query did not collect data on open/closed status of grocery stores, so the lack of a grocery store presence timeline made me decided to only focus on most recent CDC data that covered all census tracts.
 18. Original CDC data has census tract number, as well as lat/long coordinates for each tract. Decision made to join all data on zip codes.
 19. HUD crosswalk file obtained to cross reference census tracts and determine what tracts are in which zip codes.
-    a. Due to how census is performed, some tracts border two or more zip codes.
-    b. Zip code category 'unstacked' so each CSV entry only has one row.
+    * Due to how census is performed, some tracts border two or more zip codes.
+    * Zip code category 'unstacked' so each CSV entry only has one row.
 20. Zip code and CDC geodata loaded into Tableau
 21. Food desert map recreated in Tableau. Calculated field created to recreate grocery store coverage marks.
 22. Disease data by zip code added as Tableau map layer. Disease prevalence displayed as average of averages.
@@ -106,7 +106,7 @@ On the bottom of the dashboard is a bar graph that displays the total number of 
 # Link to Dashboard
 [Click Here!](https://public.tableau.com/views/food_desert_dashboard/FoodDesertDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-
+# Special Acknowledgements and Shout-Outs
 
 
 # Comment about repo contributors
