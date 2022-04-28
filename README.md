@@ -24,10 +24,10 @@ As mentioned above, it is already well understood that dietary choices will have
 
 
 # Data Sources
-Google Places API
-U.S. Centers for Disease Control and Prevention PLACES collaboration, 500 Cities dataset:
+1. Google Places API
+2. U.S. Centers for Disease Control and Prevention PLACES collaboration, 500 Cities dataset:
                   2019 release: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb
-U.S. Department of Housing and Urban Development Office of Policy Development and Research: https://www.huduser.gov/portal/datasets/usps_crosswalk.html
+3. U.S. Department of Housing and Urban Development Office of Policy Development and Research: https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
 
 # Technologies
