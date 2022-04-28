@@ -105,3 +105,9 @@ On the bottom of the dashboard is a bar graph that displays the total number of 
 
 # Link to Dashboard
 [Click Here!](https://public.tableau.com/views/food_desert_dashboard/FoodDesertDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+
+
+# Comment about repo contributors
+I am both latestnight and AmmoGoblin. Last contribution from AmmoGoblin was in May 2021, so I am not sure how this repo captured that erroneous contribution. I did experiment with git and version control between two separate computers, so I am thinking that somehow led to this. AmmoGoblin is my PSN and Xbox Live username, if anyone wants to game with me!
