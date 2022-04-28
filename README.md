@@ -35,8 +35,6 @@ As mentioned above, it is already well understood that dietary choices will have
 * Jupyter Notebook
 * requests
 * pandas/GeoPandas
-*NumPy
-*matplotlib.pyplot
 * Seaborn
 * folium
 * Tableau
