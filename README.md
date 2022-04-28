@@ -1,14 +1,14 @@
 Table of Contents
 
-    [Motivation](https://github.com/latestnight/capstone#motivation)
-    [What is a Food Desert?](https://github.com/latestnight/capstone#what-is-a-food-desert)
-    [Public Health Implications](https://github.com/latestnight/capstone#public-health-implications)
-    [My Hypothesis](https://github.com/latestnight/capstone#my-hypothesis)
-    [Data Sources](https://github.com/latestnight/capstone#data-sources)
-    [Technologies](https://github.com/latestnight/capstone#technologies)
-    [Challenges and Limitations](https://github.com/latestnight/capstone#challenges-and-limitations)
-    [Link to Dashboard](https://github.com/latestnight/capstone#link-to-dashboard)
-    [Special Acknowledgements and Shout-Outs](https://github.com/latestnight/capstone#special-acknowledgements-and-shout-outs)
+[Motivation](https://github.com/latestnight/capstone#motivation)
+[What is a Food Desert?](https://github.com/latestnight/capstone#what-is-a-food-desert)
+[Public Health Implications](https://github.com/latestnight/capstone#public-health-implications)
+[My Hypothesis](https://github.com/latestnight/capstone#my-hypothesis)
+[Data Sources](https://github.com/latestnight/capstone#data-sources)
+[Technologies](https://github.com/latestnight/capstone#technologies)
+[Challenges and Limitations](https://github.com/latestnight/capstone#challenges-and-limitations)
+[Link to Dashboard](https://github.com/latestnight/capstone#link-to-dashboard)
+[Special Acknowledgements and Shout-Outs](https://github.com/latestnight/capstone#special-acknowledgements-and-shout-outs)
 
 # Motivation
 There are a few reasons for why I chose my capstone topic:
