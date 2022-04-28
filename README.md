@@ -1,4 +1,4 @@
-Table of Contents
+# Table of Contents
 
 1. [Motivation](https://github.com/latestnight/capstone#motivation)
 2. [What is a Food Desert?](https://github.com/latestnight/capstone#what-is-a-food-desert)
