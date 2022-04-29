@@ -108,6 +108,11 @@ On the bottom of the dashboard is a bar graph that displays the total number of 
 [Click Here!](https://public.tableau.com/views/food_desert_dashboard/FoodDesertDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # Special Acknowledgements and Shout-Outs
+Chris, Suzanne, Olariche and Joshua, thank you so much for helping lead an amazing bootcamp. I was able to not only learn so much thanks to all of your help - I was able to focus on the culmination of all my newly acquired skills, and throw together this capstone project.
+
+Fellow Students - thank you all so much for joining (see what I did there?) me on this journey. To everyone along the way who helped me keep my head in the game, thank you so much. You know who you are. I believe we were all successful thanks to everyone else's help and support. I couldn't have done it without you.
+
+Nashville Software School - thank you for your assistance and support, as you helped guide me along the path to becoming a data analyst.
 
 
 # Comment about repo contributors
